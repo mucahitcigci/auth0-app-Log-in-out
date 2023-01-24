@@ -5,6 +5,8 @@
 
 * $ npm install antd
 
+* npm install --save @ant-design/icons
+
 * Ant-Desing [https://ant.design/docs/react/getting-started]
 
 ### To run the project
