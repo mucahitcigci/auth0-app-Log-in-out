@@ -3,6 +3,10 @@
  
 * Auth0 [https://auth0.com/]
 
+* $ npm install antd
+
+* Ant-Desing [https://ant.design/docs/react/getting-started]
+
 ### To run the project
 Npm Start
 
