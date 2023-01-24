@@ -1,3 +1,10 @@
+# $ npm i @auth0/auth0-react
+
+{Auth-provider}
+{useAuth0}
+
+# $ npm i react-json-pretty
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
