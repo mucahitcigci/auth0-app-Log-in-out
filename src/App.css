@@ -5,6 +5,9 @@
 }
 body {
   padding: 2rem;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
 }
 button {
   margin: 2rem 0;

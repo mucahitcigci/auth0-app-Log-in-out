@@ -1,7 +1,7 @@
 import "./App.css";
 import LoginButton from "./components/LoginButton";
 import LogoutButton from "./components/LogoutButton";
-import Profile from "./components/Profile";
+
 import { useAuth0 } from "@auth0/auth0-react";
 import { LoadingOutlined } from "@ant-design/icons";
 
@@ -11,7 +11,7 @@ function App() {
     return (
       <div>
         {" "}
-        <LoadingOutlined />
+        <LoadingOutlined style={{ fontSize: "90px" }} />
       </div>
     );
   return (
