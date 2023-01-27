@@ -14,4 +14,4 @@ Npm Start
 
 Click on the login button and you can operate the system with the "Log in with Google" option on the system you are directed to.
 
-local: http://localhost:3000
+Live Demo: [https://react-auth0-my-app.netlify.app/]
